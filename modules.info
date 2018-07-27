@@ -1,0 +1,5 @@
+name = Modules Modifications
+description = Custom module to over-write the modules/modules folder causing conflicts in the build
+core = 7.x
+package = Custom
+files[] = modules.module
